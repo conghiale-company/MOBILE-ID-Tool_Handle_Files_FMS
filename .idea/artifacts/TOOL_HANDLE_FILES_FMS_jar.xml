@@ -4,6 +4,8 @@
     <root id="archive" name="TOOL_HANDLE_FILES_FMS.jar">
       <element id="module-output" name="TOOL_HANDLE_FILES_FMS" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
